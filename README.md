@@ -1,4 +1,4 @@
-# Emotion Detector API Website
+# EmotionDetection: An API Website
 
 This repository contains the files necessary to run Watson's emotion detector API through a web interface. By inputting a message into the website, the API detects how much anger, disgust, fear, joy, and sadness is in it.
 
