@@ -13,7 +13,7 @@ This is made to be used in a Linux terminal. Before cloning this repository, ple
 - json
 - Optional: unittest (if you want to run test cases)
 
-If there is anything that you are missing, you should be able to install them with the `pip install` command, followed by their names.
+If there is anything that you are missing, you should be able to install them with the `pip install` command, followed by their names. See installation directions <a href="https://www.redhat.com/sysadmin/install-python-pip-linux">here.</a>
 
 To install this emotion detector API web interface onto your terminal, simply clone this repository in your current directory: `git clone https://github.com/alyssarose05/emotion-website.git`
 
