@@ -11,6 +11,7 @@ This is made to be used in a Linux terminal. Before cloning this repository, ple
 - render_template
 - request
 - json
+- Optional: unittest (if you want to run test cases)
 
 If there is anything that you are missing, you should be able to install them with the `pip install` command, followed by their names.
 
