@@ -9,7 +9,7 @@ This is made to be used in a Linux terminal. Before cloning this repository, ple
 - Python 3.11 or higher
 - Flask 2.2.2 or higher
 - render_template
-- request
+- requests
 - json
 - Optional: unittest (if you want to run test cases)
 
