@@ -10,6 +10,7 @@ This is made to be used in a Linux terminal. Before cloning this repository, ple
 - Flask 2.2.2.2 or higher
 - render_template
 - request
+- json
 
 If there is anything that you are missing, you should be able to install them with the `pip install` command, followed by their name.
 
