@@ -4,7 +4,7 @@ This repository contains the files necessary to run Watson's emotion detector AP
 
 
 ## Installation
-This is made to be used in a Linux terminal. Before cloning this repository, please make sure that you have the following programs and Python libraries installed in your terminal:
+This is made to be used in a Linux terminal. Before cloning this repository, please make sure that you have the following programs and Python packages/libraries installed in your terminal:
 - Git
 - Python 3.11 or higher
 - Flask 2.2.2 or higher
