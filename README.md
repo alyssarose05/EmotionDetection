@@ -18,3 +18,17 @@ To install this emotion detector API interface onto your terminal, simply clone 
 ## Running the server
 To run the server and work with the web-based API, use your version of Python to run the `server.py` file. For example, for Python 3.11, you would do `python3.11 server.py`. This will make the Flask server start running at port 5000. 
 You will need to launch the application under the 5000 port. This is commonly done by typing `127.0.0.1:5000` in your web browser.
+
+## Using the server
+Upon arrival at the webpage, you will be prompted to enter a message that will be detected for certain emotions. The current emotions that can be detected by the API are anger, disgust, fear, joy, and sadness. They are each given a score depending on how relevant that emotion is to the message. The emotion with the highest score is the dominant emotion. 
+
+Here is an example with the message "I think I am having fun"
+![](Images/demonstration.png)
+
+Note that if you put in a blank response, a response will not be generated. You will have to try again.
+![](Images/error.png)
+
+## Terminating the server
+To terminate the server at any time, you should be able to press CTRL+C to close the server.
+
+
