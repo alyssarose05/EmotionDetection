@@ -15,7 +15,7 @@ This is made to be used in a Linux terminal. Before cloning this repository, ple
 
 If there is anything that you are missing, you should be able to install them with the `pip install` command, followed by their names. See installation directions <a href="https://www.redhat.com/sysadmin/install-python-pip-linux">here.</a>
 
-To install this emotion detector API web interface onto your terminal, simply clone this repository in your current directory: `git clone https://github.com/alyssarose05/emotion-website.git`
+To install this emotion detector API web interface using your terminal, simply clone this repository in your current directory: `git clone https://github.com/alyssarose05/emotion-website.git`
 
 ## Running the server
 Navigate to the repository with the `cd EmotionDetection` command, or any path that leads to it. To run the server and work with the web-based API, use your version of Python to run the `server.py` file. For example, for Python 3.11, you would do `python3.11 server.py`. This will make the Flask server start running at port 5000. 
