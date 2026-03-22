@@ -1,4 +1,4 @@
-# EmotionDetection
+# emotion-detection
 A web-based tool that uses Watson's EmotionPredict API to detect different emotions contained in text.
 
 ## Installation
